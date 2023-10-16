@@ -22,6 +22,12 @@
 - Bio: I am a Computer Science Engineering student from Indian Institute Of Infrmation Technology Kalyani
 - GitHub: [adityasharma270103](https://github.com/adityasharma270103)
 
+#### Name: [Ishita Choudhury](https://github.com/ImcalledIshita)
+
+- Place: Siliguri, West Bengal, India
+- Bio: A Computer Science Engineering student from Siliguri Institute of Technology
+- GitHub: [ImcalledIshita](https://github.com/ImcalledIshita)
+  
 #### Name: [EyeOfCode](https://github.com/EyeOfCode)
 
 - Place: Bangkok, Thailand
